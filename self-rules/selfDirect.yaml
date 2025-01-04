@@ -1,0 +1,16 @@
+
+# 请使用 behavior: "classical"
+payload:
+  # 剧迷 gimy.ai
+  - DOMAIN-REGEX,rrcdnbf\d*.com,DIRECT
+  - DOMAIN-REGEX,ryplay\d*.com,DIRECT
+  - DOMAIN-REGEX,hiij\d*.com,DIRECT
+  - DOMAIN-REGEX,odsee4eeetwc\d*.com,DIRECT
+  - DOMAIN-REGEX,pppq\d*.com,DIRECT
+  - DOMAIN-REGEX,qrrs\d*.com,DIRECT
+  - DOMAIN-REGEX,uwxy\d*.com,DIRECT
+  - DOMAIN-REGEX,vwxy\d*.com,DIRECT
+  - DOMAIN-REGEX,wwxy\d*.com,DIRECT
+  - DOMAIN-SUFFIX,74sfnqh22ruk.com,DIRECT
+  - DOMAIN-SUFFIX,bbffvip.com,DIRECT
+  - DOMAIN-SUFFIX,bxgbnet.com,DIRECT
