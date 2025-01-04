@@ -2,16 +2,19 @@
 # 请使用 behavior: "classical"
 payload:
   # 剧迷 gimy.ai
+  - DOMAIN-REGEX,^[a-z0-9]{12}.com # 蓝光线路
+  - DOMAIN-REGEX,^v[0-9]{1}.[a-z0-9]{6}.com # 無盡雲
+  - DOMAIN-REGEX,^v[0-9]{2}.[a-z0-9]{6}.com # 無盡雲
+  - DOMAIN-REGEX,^v[0-9]{1}.[a-z0-9]{7}.com # 顺畅云
+  - DOMAIN-REGEX,^v[0-9]{2}.[a-z0-9]{7}.com # 顺畅云
   - DOMAIN-REGEX,rrcdnbf\d*.com
   - DOMAIN-REGEX,ryplay\d*.com
   - DOMAIN-REGEX,hiij\d*.com
-  - DOMAIN-REGEX,odsee4eeetwc\d*.com
   - DOMAIN-REGEX,pppq\d*.com
   - DOMAIN-REGEX,qrrs\d*.com
   - DOMAIN-REGEX,uwxy\d*.com
   - DOMAIN-REGEX,vwxy\d*.com
   - DOMAIN-REGEX,wwxy\d*.com
-  - DOMAIN-SUFFIX,74sfnqh22ruk.com
-  - DOMAIN-SUFFIX,bbffvip.com
+  - DOMAIN-SUFFIX,7bbffvip.com # 高清线路
   - DOMAIN-SUFFIX,bxgbnet.com
-  - DOMAIN-SUFFIX,st22yhezxhtf.com
+
