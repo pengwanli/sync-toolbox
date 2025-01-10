@@ -23,3 +23,6 @@ payload:
 
   # 非凡资源
   - DOMAIN-KEYWORD,ffzy-video
+
+  # u酷资源
+  - DOMAIN-KEYWORD,ukkub
