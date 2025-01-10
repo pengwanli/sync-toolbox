@@ -17,4 +17,7 @@ payload:
   - DOMAIN-REGEX,wwxy\d*.com
   - DOMAIN-SUFFIX,7bbffvip.com # 高清线路
   - DOMAIN-SUFFIX,bxgbnet.com
+  
+  # 低端影视 https://ddys.pro/
+  - DOMAIN-SUFFIX,ddys.pro
 
