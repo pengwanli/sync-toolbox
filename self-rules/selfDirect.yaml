@@ -21,3 +21,5 @@ payload:
   # 低端影视 https://ddys.pro/
   - DOMAIN-KEYWORD,ddys
 
+  # 非凡资源
+  - DOMAIN-KEYWORD,ffzy-video
